@@ -1,5 +1,5 @@
 This is main
 this also adds Austen
 <<<<<<< HEAD
--Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson. ca 1820-1830
+-Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson. ca 1820-1840
 =======
